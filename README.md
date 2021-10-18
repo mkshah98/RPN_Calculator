@@ -1,6 +1,6 @@
 # RPN_Calculator
 
-##INTRODUCTION
+## INTRODUCTION
 This project involves a simple implementation of the Reverse Polish Notation(RPN) calculator, sometimes also known as the postfix calculator. The implementation handles a few of the common arithmetic operations, including addition, subtraction, multiplication, division, exponentiation, floor and ceil operators.
 
 ##IMPLEMENTATION AND CONSTRAINTS
